@@ -1,0 +1,15 @@
+{
+  "name": "backend-atlas",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A map of backend engineering concepts: short explanations, real-world situations and when each one matters.",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "1.6.4"
+  }
+}
